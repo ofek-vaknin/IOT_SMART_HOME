@@ -1,0 +1,49 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# SQLite DB file
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pytest / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# MyPy
+.mypy_cache/
+
+# Backup files
+*~
+*.bak
+
+# MQTT passwords
+*.secret
